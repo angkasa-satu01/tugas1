@@ -1,2 +1,2 @@
 # tugas1
-ini adalahh tugas nomor satu
+ini adalahh tugas nomor satu 01
